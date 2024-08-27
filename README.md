@@ -1,5 +1,5 @@
 # Node-API-limiting
-=====================
+
 # Node.js API with Rate Limiting and Clustering
 
 This project demonstrates how to build a Node.js API with rate limiting and task queuing. The API is set up with clustering using PM2 to handle high loads and ensure tasks are processed according to specified rate limits.
